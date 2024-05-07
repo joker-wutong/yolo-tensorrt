@@ -1,0 +1,4 @@
+/home/joker/idrive_project/tensorrtx/yolov5/build/CMakeFiles/rebuild_cache.dir
+/home/joker/idrive_project/tensorrtx/yolov5/build/CMakeFiles/edit_cache.dir
+/home/joker/idrive_project/tensorrtx/yolov5/build/CMakeFiles/yolov5.dir
+/home/joker/idrive_project/tensorrtx/yolov5/build/CMakeFiles/myplugins.dir
